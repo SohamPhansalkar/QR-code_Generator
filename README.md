@@ -7,3 +7,5 @@ Libraryes used in this app --> pyqrcode, png
 How to install.
 pyqrcode - pip install pyqrcode
 png - pip install pypng
+
+View the out-put in QR-code.png file
